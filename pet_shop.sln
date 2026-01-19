@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pet_shop", "WindowsFormsApp1\pet_shop.csproj", "{484677EA-739A-47D7-A49A-054D75A806BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{484677EA-739A-47D7-A49A-054D75A806BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484677EA-739A-47D7-A49A-054D75A806BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484677EA-739A-47D7-A49A-054D75A806BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484677EA-739A-47D7-A49A-054D75A806BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2E74021-6C43-4EBB-BBAB-DE1D8C090038}
+	EndGlobalSection
+EndGlobal
