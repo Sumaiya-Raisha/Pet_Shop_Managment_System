@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\user\\onedrive\\desktop\\windowsformsapp1 - copy\\windowsformsapp1\\vendordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\vendordashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendordashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\productsmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\productsmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\vendordashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendordashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\vendordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\vendororderscontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendororderscontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\vendormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\vendormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\vendorpetscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendorpetscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\vendorpetscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendorpetscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\vendororderscontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendororderscontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\vendoradoptionrequestscontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendoradoptionrequestscontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\vendorpetscontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendorpetscontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\vendorssignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendorssignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\vendorprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendorprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\vendororderscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendororderscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\vendororderscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\vendororderscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\windowsformsapp1\\customerprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\customerprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\VendorPetListControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VendorPetsControl.resx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorPetsControl.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorPetsControl.resx",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorPetsControl.resx",
+              "RelativeToolTip": "WindowsFormsApp1\\VendorPetsControl.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-12T08:44:52.785Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VendorOrdersControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorOrdersControl.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorOrdersControl.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorOrdersControl.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\VendorOrdersControl.Designer.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAYwAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T08:44:55.427Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsManagement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\ProductsManagement.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ProductsManagement.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\ProductsManagement.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ProductsManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:00:16.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendorDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorDashboard.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\VendorDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:17:08.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VendorDashboard.resx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorDashboard.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorDashboard.resx",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorDashboard.resx",
+              "RelativeToolTip": "WindowsFormsApp1\\VendorDashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-18T08:17:06.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendorDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorDashboard.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\VendorDashboard.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:16:43.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "customerDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\customerDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\customerDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\customerDashboard.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\customerDashboard.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAIwCMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:13:44.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "customerDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\customerDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\customerDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\customerDashboard.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\customerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:13:40.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\Admin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\Admin.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\WindowsFormsApp1\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T10:49:03.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\Login.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Login.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAqwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T10:43:32.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\Login.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T10:43:30.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VendorOrdersControl.resx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorOrdersControl.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorOrdersControl.resx",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorOrdersControl.resx",
+              "RelativeToolTip": "WindowsFormsApp1\\VendorOrdersControl.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-12T10:20:59.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VendorAdoptionRequestsControl.resx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorAdoptionRequestsControl.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorAdoptionRequestsControl.resx",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorAdoptionRequestsControl.resx",
+              "RelativeToolTip": "WindowsFormsApp1\\VendorAdoptionRequestsControl.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-12T10:20:57.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VendorPetsControl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorPetsControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorPetsControl.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorPetsControl.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\VendorPetsControl.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwCsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T10:20:21.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VendorPetsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorPetsControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorPetsControl.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\VendorPetsControl.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\WindowsFormsApp1\\VendorPetsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T10:20:09.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "vendormanagement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\vendormanagement.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\vendormanagement.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\vendormanagement.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\vendormanagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T10:02:54.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "vendormanagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\vendormanagement.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\vendormanagement.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\vendormanagement.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\WindowsFormsApp1\\vendormanagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T10:02:36.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VendorPetListControl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\VendorPetListControl.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\WindowsFormsApp1\\VendorPetListControl.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\VendorPetListControl.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\WindowsFormsApp1\\VendorPetListControl.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T08:36:25.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VendorDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorDashboard.cs",
+              "ToolTip": "C:\\Users\\Atik Shahriar\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorDashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Atik Shahriar\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T17:08:33.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "vendorsSignup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\vendorsSignup.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\vendorsSignup.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\vendorsSignup.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\WindowsFormsApp1\\vendorsSignup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T17:08:28.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VendorProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorProfileForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorProfileForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\VendorProfileForm.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\WindowsFormsApp1\\VendorProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T17:08:26.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VendorOrdersControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorOrdersControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorOrdersControl.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\VendorOrdersControl.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\WindowsFormsApp1\\VendorOrdersControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T17:08:23.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VendorOrdersControl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorOrdersControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorOrdersControl.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\VendorOrdersControl.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\VendorOrdersControl.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAMwKQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T16:58:24.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\CustomerProfileForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CustomerProfileForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WindowsFormsApp1 - Copy\\WindowsFormsApp1\\CustomerProfileForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\CustomerProfileForm.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAIAwwEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T16:36:45.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,807 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C# project\u0027\\Pet_shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|f:\\c# project\u0027\\pet_shop\\windowsformsapp1\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\vendordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\vendordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\vendororderscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\vendororderscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\vendorpetscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\vendorpetscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\vendordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\vendordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\peteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\peteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\peteditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\peteditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\peteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\peteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\vendordashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\vendordashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\vendorpetscontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\vendorpetscontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\vendorssignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\vendorssignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\vendorprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\vendorprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\vendormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\vendormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\vendororderscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\vendororderscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\customerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\customerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\vendorpetscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\vendorpetscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\checkoutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\checkoutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\petadoptionrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\petadoptionrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\orderreceiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\orderreceiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\customerprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\customerprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\checkoutform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\checkoutform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\customerdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\customerdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\vendororderscontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\vendororderscontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\peteditform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\peteditform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\petadoptionrequestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\petadoptionrequestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\adduser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\adduser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\adduser.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\adduser.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\customerprofileform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\customerprofileform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|F:\\C# project\u0027\\Pet_shop\\windowsformsapp1\\vendormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484677EA-739A-47D7-A49A-054D75A806BE}|WindowsFormsApp1\\pet_shop.csproj|solutionrelative:windowsformsapp1\\vendormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 275,
+          "SelectedChildIndex": 45,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VendorDashboard.Designer.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorDashboard.Designer.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorDashboard.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\VendorDashboard.Designer.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAAALgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:23:26.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendorDashboard.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorDashboard.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorDashboard.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\VendorDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:22:35.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VendorPetsControl.Designer.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorPetsControl.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorPetsControl.Designer.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorPetsControl.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\VendorPetsControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:21:59.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendorPetsControl.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorPetsControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorPetsControl.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorPetsControl.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\VendorPetsControl.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwDcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T14:39:32.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "vendormanagement.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\vendormanagement.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\vendormanagement.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\vendormanagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T14:35:54.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendorDashboard.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorDashboard.cs",
+              "ToolTip": "F:\\C#\\Pet_shop\\WindowsFormsApp1\\VendorDashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\C#\\Pet_shop\\WindowsFormsApp1\\VendorDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T14:35:51.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Theme.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Theme.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Theme.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Theme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T08:36:37.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\ProductForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ProductForm.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\ProductForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ProductForm.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAMcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T08:35:36.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Login.Designer.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Login.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Login.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T23:31:33.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T23:30:25.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDetailsForm.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\OrderDetailsForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\OrderDetailsForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\OrderDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T22:30:05.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "manageUser.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\manageUser.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\manageUser.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\manageUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T22:29:57.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PetAdoptionRequestForm.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\PetAdoptionRequestForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PetAdoptionRequestForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\PetAdoptionRequestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T22:17:46.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderReceiptForm.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\OrderReceiptForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\OrderReceiptForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\OrderReceiptForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T22:17:41.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CheckoutForm.resx",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\CheckoutForm.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CheckoutForm.resx",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\CheckoutForm.resx",
+              "RelativeToolTip": "WindowsFormsApp1\\CheckoutForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-26T21:54:19.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:50:42.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomerProfileForm.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\CustomerProfileForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CustomerProfileForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\CustomerProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:44:52.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CheckoutForm.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\CheckoutForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CheckoutForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\CheckoutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:44:48.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "customerDashboard.resx",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\customerDashboard.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\customerDashboard.resx",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\customerDashboard.resx",
+              "RelativeToolTip": "WindowsFormsApp1\\customerDashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-26T21:44:32.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "customerDashboard.Designer.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\customerDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\customerDashboard.Designer.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\customerDashboard.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\customerDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:44:28.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Admin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Admin.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Admin.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:31:20.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Admin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:31:15.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "customerDashboard.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\customerDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\customerDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\customerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:29:57.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "VendorOrdersControl.Designer.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorOrdersControl.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorOrdersControl.Designer.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorOrdersControl.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\VendorOrdersControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:38:53.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendorOrdersControl.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorOrdersControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorOrdersControl.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorOrdersControl.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\VendorOrdersControl.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:33:47.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "vendorsSignup.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\vendorsSignup.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\vendorsSignup.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\vendorsSignup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:29:41.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VendorProfileForm.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorProfileForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorProfileForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\VendorProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:29:38.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VendorPetsControl.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorPetsControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorPetsControl.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\VendorPetsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:29:35.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VendorOrdersControl.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\VendorOrdersControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\VendorOrdersControl.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\VendorOrdersControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:29:27.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "updateuser.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\updateuser.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\updateuser.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\updateuser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:29:20.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "role.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\role.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\role.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\role.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:29:13.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderHistoryForm.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\OrderHistoryForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\OrderHistoryForm.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\OrderHistoryForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\OrderHistoryForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:18:19.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderHistoryForm.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\OrderHistoryForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\OrderHistoryForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\OrderHistoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:18:00.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "customerDashboard.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\customerDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\customerDashboard.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\customerDashboard.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\customerDashboard.cs",
+              "ViewState": "AgIAAMEDAAAAAAAAAAAmwMoDAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:16:17.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PetEditForm.resx",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\PetEditForm.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PetEditForm.resx",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\PetEditForm.resx",
+              "RelativeToolTip": "WindowsFormsApp1\\PetEditForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-26T12:10:36.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ShoppingCart.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\ShoppingCart.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ShoppingCart.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:55:45.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PetEditForm.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\PetEditForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PetEditForm.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\PetEditForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\PetEditForm.cs",
+              "ViewState": "AgIAALEBAAAAAAAAAAAgwJABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:53:28.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\ProductForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\ProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:52:55.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PetEditForm.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\PetEditForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PetEditForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\PetEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:52:44.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CheckoutForm.Designer.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\CheckoutForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CheckoutForm.Designer.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\CheckoutForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\CheckoutForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:52:26.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "addUser.Designer.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\addUser.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\addUser.Designer.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\addUser.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\addUser.Designer.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:52:15.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "addUser.resx",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\addUser.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\addUser.resx",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\addUser.resx",
+              "RelativeToolTip": "WindowsFormsApp1\\addUser.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-25T15:52:09.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CustomerProfileForm.Designer.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\CustomerProfileForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CustomerProfileForm.Designer.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\CustomerProfileForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\CustomerProfileForm.Designer.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:51:37.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Login.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Login.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:51:15.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:51:06.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.resx",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Login.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Login.resx",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Login.resx",
+              "RelativeToolTip": "WindowsFormsApp1\\Login.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-25T15:51:01.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PetAdoptionRequestForm.Designer.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\PetAdoptionRequestForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PetAdoptionRequestForm.Designer.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\PetAdoptionRequestForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\PetAdoptionRequestForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:50:41.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PetEditForm.Designer.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\PetEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PetEditForm.Designer.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\PetEditForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\PetEditForm.Designer.cs",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAAAI8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:49:29.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T09:42:08.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "vendormanagement.cs",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\vendormanagement.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\vendormanagement.cs",
+              "ToolTip": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\vendormanagement.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\vendormanagement.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T09:34:04.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "addUser.cs [Design]",
+              "DocumentMoniker": "F:\\C# project\u0027\\Pet_shop\\WindowsFormsApp1\\addUser.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\addUser.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pet_shop\\WindowsFormsApp1\\addUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:36:26.52Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 63,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

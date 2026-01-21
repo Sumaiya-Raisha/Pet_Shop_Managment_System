@@ -1,0 +1,3 @@
+ALTER TABLE Pet_list
+ADD VendorID INT NOT NULL DEFAULT 0;
+
